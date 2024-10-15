@@ -21,7 +21,7 @@ var (
 // Menu
 func menu() {
 	fmt.Println("Menu Program")
-	fmt.Println("1. Lihat informasi Pengguna Program")
+	fmt.Println("1. Lihat Informasi Pengguna Program")
 	fmt.Println("2. Lihat Daftar Buku")
 	fmt.Println("3. Tambah Daftar Buku")
 	fmt.Println("4. Tambah Peminjaman Buku")

@@ -114,7 +114,7 @@ func TambahPeminjamanBuku() {
 				fmt.Println("Jumlah peminjaman harus lebih besar dari 0")
 				return
 			} else if buku.JumlahBuku < jumlahPinjam {
-				fmt.Println("Jumlah buku tidak mencukupi!.")
+				fmt.Println("Jumlah buku tidak mencukupi.")
 				return
 			} else {
 				daftarBuku[i].JumlahBuku -= jumlahPinjam

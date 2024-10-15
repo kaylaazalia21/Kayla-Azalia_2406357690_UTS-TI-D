@@ -40,7 +40,7 @@ func LihatInformasiPenggunaProgram() {
 	fmt.Println("=========================================")
 	fmt.Println("Informasi Pengguna Program")
 	fmt.Println("Username: Kayla")
-	fmt.Println("Password: 2406357690")
+	fmt.Println("NPM: 2406357690")
 	fmt.Println("Jenis Kelamin: Perempuan")
 	fmt.Println("Makanan Favorit: Fettucine")
 	fmt.Println("Minuman Favorit: Mactha Latte")
